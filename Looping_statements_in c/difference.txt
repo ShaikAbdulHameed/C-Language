@@ -1,0 +1,3 @@
+Difference b/w conditional statements and Looping statements.
+here conditional statement executes only once.
+here looping statements executes only repeatedly several times.
