@@ -1,0 +1,3 @@
+Return types are the DataTypes. It stores and print the value.
+
+Return types are : void,int,short,char,double,long,float,etc.,
