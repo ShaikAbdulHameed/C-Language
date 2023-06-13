@@ -1,0 +1,13 @@
+Standard library functions are the functions.
+Also called User defined functions or Built_in funtions.
+we can use them directly in program.
+
+examples:
+
+1)printf() is a standard library function present in headerfile <stdio.h>
+2)sqrt() is a standard library function present in headerfile <math.h>
+3)main() is also a function. it also called main function start in c.
+
+etc.,
+
+
